@@ -1,0 +1,91 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Moneyman",
+      "author": "Thomas Bertram Costain",
+      "year": 1947,
+      "genre": "Historical novel",
+      "image": "https://m.media-amazon.com/images/I/51p-CQuKyhL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "year": 1859,
+      "genre": "Historical Fiction",
+      "image": "https://cdn.kobo.com/book-images/b6cc787d-79b3-4322-bfae-7bbf6ed59a77/1200/1200/False/a-tale-of-two-cities-431.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Le Petit Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "year": 1943,
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/71t+4m5lz0L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "year": 1988,
+      "genre": "Fantasy",
+      "image": "https://m.media-amazon.com/images/I/61HAE8zahLL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Black Beauty",
+      "author": "Anna Sewell",
+      "year": 1877,
+      "genre": "Children's literature",
+      "image": "https://m.media-amazon.com/images/I/61mxD2EpofL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Ginger Man",
+      "author": "J. P. Donleavy",
+      "year": 1955,
+      "genre": "Novel",
+      "image": "https://www.logobook.ru/make_nimage.php?uid=15254985"
+    },
+    {
+      "id": 7,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "genre": "Southern Gothic",
+      "image": "https://images.booksense.com/images/268/980/9780061980268.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Name of the Rose",
+      "author": "Umberto Eco",
+      "year": 1980,
+      "genre": "Historical Fiction",
+      "image": "https://m.media-amazon.com/images/I/819SFV6rfRL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "genre": "Novel",
+      "image": "https://images.booksense.com/images/494/260/9782382260494.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Lost Symbol",
+      "author": "Dan Brown",
+      "year": 2009,
+      "genre": "Fiction",
+      "image": "https://m.media-amazon.com/images/I/81I9TyINU+L._AC_UF1000,1000_QL80_.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "123"
+    }
+  ]
+}
